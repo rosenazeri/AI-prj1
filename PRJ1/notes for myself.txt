@@ -1,0 +1,6 @@
+cd C:\Users\BiaDigi.Com\Desktop\rose_nazeri40231423_AIP1\AI_P1_Code
+مسیر فایل داخل ترمینال
+
+check all
+
+python autograder.py
